@@ -25,7 +25,7 @@
     "rxjs": "6.1.0",
     "web-animations-js": "2.3.1",
     "zone.js": "0.8.26",
-    "moment-timezone": "^0.5.26"
+    "moment-timezone": "^0.5.35"
   },
   "scripts": {
     "ng": "ng",
